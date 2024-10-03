@@ -29,7 +29,7 @@ public class User implements Serializable {
 	
 	private String lastName;
 
-	private String email;
+	
 	
 	@Temporal(TemporalType.DATE)
 	private Date dateNaissance;
